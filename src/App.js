@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       Usestate
-      <p>Another linee</p>
+      <p>Another line</p>
     </div>
   );
 }
